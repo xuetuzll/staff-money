@@ -1,0 +1,22 @@
+.DS_Store
+node_modules
+/dist
+/staff/node_modules
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+/staff/npm-debug.log*
+/staff/yarn-debug.log*
+/staff/yarn-error.log*
+
+# Editor directories and files
+/staff/.idea
+/staff/.vscode
+/staff/*.suo
+/staff/*.ntvs*
+/staff/*.njsproj
+/staff/*.sln
+/staff/*.sw*
